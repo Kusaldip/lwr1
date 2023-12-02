@@ -1,0 +1,82 @@
+[
+  [
+    "lwr/esmLoader@0.11.7",
+    {
+      "ownHash": "f6acd927a2720b68bd402927f204e7ae",
+      "module": "./cache/lwr_esmLoader_0_11_7.js",
+      "moduleMeta": "./cache/lwr_esmLoader_0_11_7.meta.json"
+    }
+  ],
+  [
+    "lwr/preInit@0.11.7",
+    {
+      "ownHash": "f3a204ef43fb3057d910f80d7e9f9ba7",
+      "module": "./cache/lwr_preInit_0_11_7.js",
+      "moduleMeta": "./cache/lwr_preInit_0_11_7.meta.json"
+    }
+  ],
+  [
+    "lwr/init@0.11.7",
+    {
+      "ownHash": "f30361ad8ff7af505bf4d465c8499181",
+      "module": "./cache/lwr_init_0_11_7.js",
+      "moduleMeta": "./cache/lwr_init_0_11_7.meta.json"
+    }
+  ],
+  [
+    "lwr/profiler@0.11.7",
+    {
+      "ownHash": "a152b8d35f12ca1b5147c5cd1ee155fb",
+      "module": "./cache/lwr_profiler_0_11_7.js",
+      "moduleMeta": "./cache/lwr_profiler_0_11_7.meta.json"
+    }
+  ],
+  [
+    "lwc@5.0.0",
+    {
+      "ownHash": "d96c3988d146634277310d291d6b30a2",
+      "module": "./cache/lwc_5_0_0.js",
+      "moduleMeta": "./cache/lwc_5_0_0.meta.json"
+    }
+  ],
+  [
+    "lwr/metrics@0.11.7",
+    {
+      "ownHash": "274c8343f810353bbad085a79709395f",
+      "module": "./cache/lwr_metrics_0_11_7.js",
+      "moduleMeta": "./cache/lwr_metrics_0_11_7.meta.json"
+    }
+  ],
+  [
+    "example/app@0.0.1",
+    {
+      "ownHash": "71cb8f8c42b428459408dca3e0ae787d",
+      "module": "./cache/example_app_0_0_1.js",
+      "moduleMeta": "./cache/example_app_0_0_1.meta.json"
+    }
+  ],
+  [
+    "example/app#app.html@0.0.1",
+    {
+      "ownHash": "ad1f3f8583d9184c7f458e0911cf7047",
+      "module": "./cache/example_app_app_html_0_0_1.js",
+      "moduleMeta": "./cache/example_app_app_html_0_0_1.meta.json"
+    }
+  ],
+  [
+    "example/app#app.css@0.0.1",
+    {
+      "ownHash": "85c881c185f08e541373b2b395ed488c",
+      "module": "./cache/example_app_app_css_0_0_1.js",
+      "moduleMeta": "./cache/example_app_app_css_0_0_1.meta.json"
+    }
+  ],
+  [
+    "example/app#app.scoped.css?scoped=true@0.0.1",
+    {
+      "ownHash": "13fcec3d73f055fccd306149598cb9b5",
+      "module": "./cache/example_app_app_scoped_css_scoped=true_0_0_1.js",
+      "moduleMeta": "./cache/example_app_app_scoped_css_scoped=true_0_0_1.meta.json"
+    }
+  ]
+]
