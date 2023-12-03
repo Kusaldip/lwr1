@@ -1,11 +1,25 @@
 {
-    "lwc": { "modules": [{ "dir": "$rootDir/src/modules" }] },
+    "lwc": { "modules": [{ "dir": "$rootDir/src/modules/example/app" }] },
     "routes": [
         {
-            "id": "example",
+            "id": "home",
             "path": "/",
-            "rootComponent": "example/app"
+            "layoutTemplate":"$layoutsDir/main.html",
+            "rootComponent": "pages/home",
+            "bootstrap":{
+                "syntheticShadow": true
+            }
+        },
+        {
+            "id": "buildAndPrice",
+            "path": "/build_and_price",
+            "layoutTemplate":"$layoutsDir/main.html",
+            "rootComponent": "pages/buildAndPrice",
+            "bootstrap":{
+                "syntheticShadow": true
+            }
         }
+
     ],
     "assets": [
         {

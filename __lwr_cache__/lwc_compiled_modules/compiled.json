@@ -78,5 +78,109 @@
       "module": "./cache/example_app_app_scoped_css_scoped=true_0_0_1.js",
       "moduleMeta": "./cache/example_app_app_scoped_css_scoped=true_0_0_1.meta.json"
     }
+  ],
+  [
+    "@lwc/synthetic-shadow@5.0.0",
+    {
+      "ownHash": "2d5193fa040b9b7b2e9994b1bf45d57c",
+      "module": "./cache/_lwc_synthetic-shadow_5_0_0.js",
+      "moduleMeta": "./cache/_lwc_synthetic-shadow_5_0_0.meta.json"
+    }
+  ],
+  [
+    "components/navbar@0.0.1",
+    {
+      "ownHash": "da463f8e3cc8cb825e4c45efcbc6549b",
+      "module": "./cache/components_navbar_0_0_1.js",
+      "moduleMeta": "./cache/components_navbar_0_0_1.meta.json"
+    }
+  ],
+  [
+    "components/navbar#navbar.html@0.0.1",
+    {
+      "ownHash": "f1d12bc01085d01bc8ad19bcd9154e30",
+      "module": "./cache/components_navbar_navbar_html_0_0_1.js",
+      "moduleMeta": "./cache/components_navbar_navbar_html_0_0_1.meta.json"
+    }
+  ],
+  [
+    "components/navbar#navbar.css@0.0.1",
+    {
+      "ownHash": "dc79438b3c006e4af188bb3e87efb528",
+      "module": "./cache/components_navbar_navbar_css_0_0_1.js",
+      "moduleMeta": "./cache/components_navbar_navbar_css_0_0_1.meta.json"
+    }
+  ],
+  [
+    "components/navbar#navbar.scoped.css?scoped=true@0.0.1",
+    {
+      "ownHash": "13fcec3d73f055fccd306149598cb9b5",
+      "module": "./cache/components_navbar_navbar_scoped_css_scoped=true_0_0_1.js",
+      "moduleMeta": "./cache/components_navbar_navbar_scoped_css_scoped=true_0_0_1.meta.json"
+    }
+  ],
+  [
+    "pages/home@0.0.1",
+    {
+      "ownHash": "838cec791e0b26e951afdc3cda000a7f",
+      "module": "./cache/pages_home_0_0_1.js",
+      "moduleMeta": "./cache/pages_home_0_0_1.meta.json"
+    }
+  ],
+  [
+    "pages/home#home.html@0.0.1",
+    {
+      "ownHash": "1b2bfbb147e39ff66ac555d7c4df897a",
+      "module": "./cache/pages_home_home_html_0_0_1.js",
+      "moduleMeta": "./cache/pages_home_home_html_0_0_1.meta.json"
+    }
+  ],
+  [
+    "pages/home#home.css@0.0.1",
+    {
+      "ownHash": "2ebf481c4b0cf28aa505255a079bf942",
+      "module": "./cache/pages_home_home_css_0_0_1.js",
+      "moduleMeta": "./cache/pages_home_home_css_0_0_1.meta.json"
+    }
+  ],
+  [
+    "pages/home#home.scoped.css?scoped=true@0.0.1",
+    {
+      "ownHash": "13fcec3d73f055fccd306149598cb9b5",
+      "module": "./cache/pages_home_home_scoped_css_scoped=true_0_0_1.js",
+      "moduleMeta": "./cache/pages_home_home_scoped_css_scoped=true_0_0_1.meta.json"
+    }
+  ],
+  [
+    "pages/buildAndPrice@0.0.1",
+    {
+      "ownHash": "53e134c8185cec1a35e79febd62a0305",
+      "module": "./cache/pages_buildAndPrice_0_0_1.js",
+      "moduleMeta": "./cache/pages_buildAndPrice_0_0_1.meta.json"
+    }
+  ],
+  [
+    "pages/buildAndPrice#buildAndPrice.html@0.0.1",
+    {
+      "ownHash": "d2a287dc285398f07eec09552d8f9b1e",
+      "module": "./cache/pages_buildAndPrice_buildAndPrice_html_0_0_1.js",
+      "moduleMeta": "./cache/pages_buildAndPrice_buildAndPrice_html_0_0_1.meta.json"
+    }
+  ],
+  [
+    "pages/buildAndPrice#buildAndPrice.css@0.0.1",
+    {
+      "ownHash": "13fcec3d73f055fccd306149598cb9b5",
+      "module": "./cache/pages_buildAndPrice_buildAndPrice_css_0_0_1.js",
+      "moduleMeta": "./cache/pages_buildAndPrice_buildAndPrice_css_0_0_1.meta.json"
+    }
+  ],
+  [
+    "pages/buildAndPrice#buildAndPrice.scoped.css?scoped=true@0.0.1",
+    {
+      "ownHash": "13fcec3d73f055fccd306149598cb9b5",
+      "module": "./cache/pages_buildAndPrice_buildAndPrice_scoped_css_scoped=true_0_0_1.js",
+      "moduleMeta": "./cache/pages_buildAndPrice_buildAndPrice_scoped_css_scoped=true_0_0_1.meta.json"
+    }
   ]
 ]

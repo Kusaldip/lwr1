@@ -1,0 +1,38 @@
+main{
+    padding-top:36px;
+}
+.first_heading{
+    font-size: 44px;
+    margin-bottom: 20px;
+    font-weight: 700;
+}
+.second_heading{
+    font-size: 190px;
+    line-height: 0.8;
+    font-weight: 700;
+    margin-bottom: 24px;
+}
+.reponsiveImage{
+    width:100%;
+    height:auto;
+    max-width:720px;
+}
+.fiveNumber{
+    font-size: 48px;
+    color: red;
+    font-weight: 600;
+}
+.benifits{
+    padding: 32px;
+    text-align: center;
+    font-size: 32px;
+}
+/**Styles for Mobile**/
+@media screen and (max-width:520px){
+    .first_heading{
+        font-size:32px;
+    }
+    .second_heading{
+        font-size:82px;
+    }
+}
