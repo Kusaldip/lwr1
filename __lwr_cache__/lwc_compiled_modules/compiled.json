@@ -90,7 +90,7 @@
   [
     "components/navbar@0.0.1",
     {
-      "ownHash": "da463f8e3cc8cb825e4c45efcbc6549b",
+      "ownHash": "1d0662b40cb0b5824a22803ee22dd0cf",
       "module": "./cache/components_navbar_0_0_1.js",
       "moduleMeta": "./cache/components_navbar_0_0_1.meta.json"
     }
@@ -98,7 +98,7 @@
   [
     "components/navbar#navbar.html@0.0.1",
     {
-      "ownHash": "f1d12bc01085d01bc8ad19bcd9154e30",
+      "ownHash": "f6ebd7589b7b481a25a178b917584d89",
       "module": "./cache/components_navbar_navbar_html_0_0_1.js",
       "moduleMeta": "./cache/components_navbar_navbar_html_0_0_1.meta.json"
     }
@@ -106,7 +106,7 @@
   [
     "components/navbar#navbar.css@0.0.1",
     {
-      "ownHash": "dc79438b3c006e4af188bb3e87efb528",
+      "ownHash": "168d46649a8e04d271b4785a04209732",
       "module": "./cache/components_navbar_navbar_css_0_0_1.js",
       "moduleMeta": "./cache/components_navbar_navbar_css_0_0_1.meta.json"
     }
@@ -122,7 +122,7 @@
   [
     "pages/home@0.0.1",
     {
-      "ownHash": "838cec791e0b26e951afdc3cda000a7f",
+      "ownHash": "345e3c36656f006211db4d4b4e2c19db",
       "module": "./cache/pages_home_0_0_1.js",
       "moduleMeta": "./cache/pages_home_0_0_1.meta.json"
     }
@@ -130,7 +130,7 @@
   [
     "pages/home#home.html@0.0.1",
     {
-      "ownHash": "1b2bfbb147e39ff66ac555d7c4df897a",
+      "ownHash": "24a0c67db05f633e1cba287892051941",
       "module": "./cache/pages_home_home_html_0_0_1.js",
       "moduleMeta": "./cache/pages_home_home_html_0_0_1.meta.json"
     }
@@ -138,7 +138,7 @@
   [
     "pages/home#home.css@0.0.1",
     {
-      "ownHash": "2ebf481c4b0cf28aa505255a079bf942",
+      "ownHash": "d0c2ffabe0180cfad86cd2a61e2394be",
       "module": "./cache/pages_home_home_css_0_0_1.js",
       "moduleMeta": "./cache/pages_home_home_css_0_0_1.meta.json"
     }
@@ -154,7 +154,7 @@
   [
     "pages/buildAndPrice@0.0.1",
     {
-      "ownHash": "53e134c8185cec1a35e79febd62a0305",
+      "ownHash": "cab8d6a7d2c61880d9e6a31e03ccc8f5",
       "module": "./cache/pages_buildAndPrice_0_0_1.js",
       "moduleMeta": "./cache/pages_buildAndPrice_0_0_1.meta.json"
     }
@@ -162,7 +162,7 @@
   [
     "pages/buildAndPrice#buildAndPrice.html@0.0.1",
     {
-      "ownHash": "d2a287dc285398f07eec09552d8f9b1e",
+      "ownHash": "5bfad8db58027defdbf9a1b10e7ff350",
       "module": "./cache/pages_buildAndPrice_buildAndPrice_html_0_0_1.js",
       "moduleMeta": "./cache/pages_buildAndPrice_buildAndPrice_html_0_0_1.meta.json"
     }
@@ -181,6 +181,102 @@
       "ownHash": "13fcec3d73f055fccd306149598cb9b5",
       "module": "./cache/pages_buildAndPrice_buildAndPrice_scoped_css_scoped=true_0_0_1.js",
       "moduleMeta": "./cache/pages_buildAndPrice_buildAndPrice_scoped_css_scoped=true_0_0_1.meta.json"
+    }
+  ],
+  [
+    "components/carDetails@0.0.1",
+    {
+      "ownHash": "5bcb013990e464fed890e05c150430f8",
+      "module": "./cache/components_carDetails_0_0_1.js",
+      "moduleMeta": "./cache/components_carDetails_0_0_1.meta.json"
+    }
+  ],
+  [
+    "components/rangeSelection@0.0.1",
+    {
+      "ownHash": "aed54dc29855d2b2fc66d8d7db434c8c",
+      "module": "./cache/components_rangeSelection_0_0_1.js",
+      "moduleMeta": "./cache/components_rangeSelection_0_0_1.meta.json"
+    }
+  ],
+  [
+    "components/colorSelection@0.0.1",
+    {
+      "ownHash": "8206e025a8829409ab91c5608625b90b",
+      "module": "./cache/components_colorSelection_0_0_1.js",
+      "moduleMeta": "./cache/components_colorSelection_0_0_1.meta.json"
+    }
+  ],
+  [
+    "components/carDetails#carDetails.html@0.0.1",
+    {
+      "ownHash": "0c15d987ab706a6bfcedd1e4a8f71060",
+      "module": "./cache/components_carDetails_carDetails_html_0_0_1.js",
+      "moduleMeta": "./cache/components_carDetails_carDetails_html_0_0_1.meta.json"
+    }
+  ],
+  [
+    "components/rangeSelection#rangeSelection.html@0.0.1",
+    {
+      "ownHash": "5b0a4e03feeef4bce9e657b1e4ecf3f3",
+      "module": "./cache/components_rangeSelection_rangeSelection_html_0_0_1.js",
+      "moduleMeta": "./cache/components_rangeSelection_rangeSelection_html_0_0_1.meta.json"
+    }
+  ],
+  [
+    "components/colorSelection#colorSelection.html@0.0.1",
+    {
+      "ownHash": "6c7e697e0f8901c343e9f626371e2613",
+      "module": "./cache/components_colorSelection_colorSelection_html_0_0_1.js",
+      "moduleMeta": "./cache/components_colorSelection_colorSelection_html_0_0_1.meta.json"
+    }
+  ],
+  [
+    "components/carDetails#carDetails.css@0.0.1",
+    {
+      "ownHash": "13fcec3d73f055fccd306149598cb9b5",
+      "module": "./cache/components_carDetails_carDetails_css_0_0_1.js",
+      "moduleMeta": "./cache/components_carDetails_carDetails_css_0_0_1.meta.json"
+    }
+  ],
+  [
+    "components/rangeSelection#rangeSelection.css@0.0.1",
+    {
+      "ownHash": "276fd8e4ef6fb4608d63c4d14edc6cc4",
+      "module": "./cache/components_rangeSelection_rangeSelection_css_0_0_1.js",
+      "moduleMeta": "./cache/components_rangeSelection_rangeSelection_css_0_0_1.meta.json"
+    }
+  ],
+  [
+    "components/colorSelection#colorSelection.css@0.0.1",
+    {
+      "ownHash": "8ddecb427c152e0bc3e9164f881f52ef",
+      "module": "./cache/components_colorSelection_colorSelection_css_0_0_1.js",
+      "moduleMeta": "./cache/components_colorSelection_colorSelection_css_0_0_1.meta.json"
+    }
+  ],
+  [
+    "components/carDetails#carDetails.scoped.css?scoped=true@0.0.1",
+    {
+      "ownHash": "13fcec3d73f055fccd306149598cb9b5",
+      "module": "./cache/components_carDetails_carDetails_scoped_css_scoped=true_0_0_1.js",
+      "moduleMeta": "./cache/components_carDetails_carDetails_scoped_css_scoped=true_0_0_1.meta.json"
+    }
+  ],
+  [
+    "components/rangeSelection#rangeSelection.scoped.css?scoped=true@0.0.1",
+    {
+      "ownHash": "13fcec3d73f055fccd306149598cb9b5",
+      "module": "./cache/components_rangeSelection_rangeSelection_scoped_css_scoped=true_0_0_1.js",
+      "moduleMeta": "./cache/components_rangeSelection_rangeSelection_scoped_css_scoped=true_0_0_1.meta.json"
+    }
+  ],
+  [
+    "components/colorSelection#colorSelection.scoped.css?scoped=true@0.0.1",
+    {
+      "ownHash": "13fcec3d73f055fccd306149598cb9b5",
+      "module": "./cache/components_colorSelection_colorSelection_scoped_css_scoped=true_0_0_1.js",
+      "moduleMeta": "./cache/components_colorSelection_colorSelection_scoped_css_scoped=true_0_0_1.meta.json"
     }
   ]
 ]
